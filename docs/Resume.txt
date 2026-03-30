@@ -1,0 +1,88 @@
+SHIVPRASAD SUPANE
+BCA Student, Cloud Computing Enthusiast
+
+shivsupane@gmail.com
+(1) Shivprasad Supane | LinkedIn
+pune
+
+Summary
+======
+BCA student with hands-on experience in deploying and managing cloud infrastructure using core AWS services. Skilled in building scalable, secure, and highly available cloud solutions using tools such as EC2, S3, Lambda, VPC, IAM, RDS, ECS, DynamoDB, and more. Adept at designing cloud-native architectures, automating workflows, and implementing monitoring, recovery, and identity services for real-world environments.
+
+
+Education
+======
+Bachelor of Computer Applications (BCA)
+D Y Patil International University
+09/2022 - 05/2025
+
+
+Achievements
+======
+Cloud Security
+Set up IAM roles, policies, and security groups to give limited access and follow cloud security rules.
+
+Network Configuration in Cloud
+Configured security groups, route tables, and subnets to manage traffic and ensure secure cloud networking.
+
+Efficient Server Management
+Managed and optimized servers for high availability and performance
+
+Cloud Environments
+Deployed and managed AWS EC2, S3, IAM, and VPC for cloud infrastructure.
+
+High Availability Architecture
+Designed scalable infrastructure, ensuring 99.9% uptime.
+
+Cloud Monitoring & Security
+Integrated AWS CloudWatch and SNS alerts, reducing troubleshooting time by 60%.
+
+
+Skills
+======
+Cloud & Compute
+ - EC2
+ - Lambda
+ - ECS
+ - VPC
+ - Auto Scaling
+ - Load Balancer
+
+Storage & Database
+ - S3
+ - EBS
+ - Snapshots & Recovery
+ - DynamoDB
+ - RDS
+
+Security & Monitoring
+ - IAM
+ - Cognito
+ - CloudWatch
+ - CloudTrail
+ - SNS
+
+DevOps & Tools
+ - Docker
+ - GitHub
+ - CI/CD (Basics)
+
+Web & App Design
+ - UI/UX Planning
+ - User Flow Mapping
+ - Responsive Design
+
+OS
+ - Linux
+ - Windows
+
+
+Projects
+======
+AWS Cloud Project
+ - Provisioned EC2 instances with RHEL GUI for cloud-based workloads, ensuring smooth remote desktop access.
+ - Used AWS CloudWatch to monitor system logs and troubleshoot performance issues.
+ - Designed and implemented an event-driven architecture using AWS Lambda and S3 to automate transcription of audio files via AWS Transcribe.
+ - Implemented Auto Scaling with Load Balancer to handle traffic spikes and ensure high availability.
+ - Containerized and deployed a web app using Docker for consistent environment setup.
+

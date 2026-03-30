@@ -1,0 +1,24 @@
+Introduction to Artificial Intelligence
+
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+It involves learning, reasoning, and self-correction.
+
+Machine Learning is a subset of AI that enables systems to learn from data
+without being explicitly programmed.
+
+Deep Learning uses neural networks with many layers to analyze data.
+It powers image recognition, speech recognition, and natural language processing.
+
+Large Language Models (LLMs) are trained on massive text data. They can generate
+text, answer questions, and summarize documents. Examples: GPT-4, Claude, Gemini, LLaMA.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with text generation.
+A RAG system retrieves relevant documents from a knowledge base, then uses an LLM to
+generate an answer grounded in those documents. This reduces hallucinations.
+
+Vector Embeddings are numerical representations of text capturing semantic meaning.
+FAISS is a library by Facebook for fast similarity search over vector embeddings.
+
+To become an AI Engineer you should learn Python, then machine learning basics,
+then deep learning, then how to work with LLMs and build RAG pipelines like this one.
+Practice by building projects and putting them on GitHub.
